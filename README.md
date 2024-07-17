@@ -19,21 +19,18 @@ Welcome to my journey through the Gen AI course! This repository documents my pr
 ![GitHub forks](https://img.shields.io/github/forks/nadeenahmed/GenAI-DEPI?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/nadeenahmed/GenAI-DEPI?style=social)
 
-## 📊 Task 1: Data Exploration
-In this task, I explored various datasets and performed initial data analysis.
+## 🧠 Task 01: First ANN From Scratch
+In this task, I experienced working on an ANN from scratch.
 
-![Data Exploration Image](images/data_exploration.png)
+- **Notebook:** [Fisrt ANN Notebook](Task 01 - ANN From Scratch.ipynb)
+- **Dataset:** [Loan Prediction](datasets/Bank_Personal_Loan_Modelling.xlsx)
 
-- **Notebook:** [Data Exploration Notebook](tasks/task1/task1_notebook.ipynb)
-- **Results:** [Data Exploration Results](tasks/task1/task1_results.md)
 
-## 🤖 Task 2: Model Training
-Here, I trained different machine learning models to understand their performance.
+## 💵 Task 02: Loan Prediction ANN
+Here, I trained different ANNs using Scikit-learn and TensorFlow to understand their performances.
 
-![Model Training Image](images/model_training.png)
-
-- **Notebook:** [Model Training Notebook](tasks/task2/task2_notebook.ipynb)
-- **Results:** [Model Training Results](tasks/task2/task2_results.md)
+- **Notebook:** [Loan Prediction ANN Notebook](Task 02 - Loan Prediction ANN.ipynb)
+- **Dataset:** [Loan Prediction](datasets/Bank_Personal_Loan_Modelling.xlsx)
 
 ## 🧪 Task 3: Model Evaluation
 I evaluated the models and documented the results.
