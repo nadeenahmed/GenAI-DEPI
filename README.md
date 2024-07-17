@@ -20,29 +20,41 @@ Welcome to my journey through the Gen AI course! This repository documents my pr
 ![GitHub stars](https://img.shields.io/github/stars/nadeenahmed/GenAI-DEPI?style=social)
 
 ## 🧠 Task 01: First ANN From Scratch
-In this task, I experienced working on an ANN from scratch.
+In this task, I experienced training an ANN from scratch.
 
-- **Notebook:** [Fisrt ANN Notebook](technical_tasks/Task 01 - ANN From Scratch.ipynb)
 - **Dataset:** [Loan Prediction](datasets/Bank_Personal_Loan_Modelling.xlsx)
 
 
 ## 💵 Task 02: Loan Prediction ANN
 Here, I trained different ANNs using Scikit-learn and TensorFlow to understand their performances.
 
-- **Notebook:** [Loan Prediction ANN Notebook](Task 02 - Loan Prediction ANN.ipynb)
 - **Dataset:** [Loan Prediction](datasets/Bank_Personal_Loan_Modelling.xlsx)
 
-## 🧪 Task 3: Model Evaluation
-I evaluated the models and documented the results.
+## 📊 Task 03: Advertising Classification and House Prices Prediction
+I trained a Random Forest Classifier on Advertising data, and a Linear Regression  model on Airbnb data
 
-![Model Evaluation Image](images/model_evaluation.png)
+- **Datasets:** [Advertising](datasets/advertising.csv)
+[Airbnb](datasets/listings_berlin.csv)
 
-- **Notebook:** [Model Evaluation Notebook]()
-- **Results:** [Model Evaluation Results](tasks/task3/task3_results.md)
+## ❤️🚗 Task 04: Heart Failure Classification and Car Price Prediction
+I used TensorFlow to train 2 sequential ANN models on car price and heart failure data.
 
+- **Dataset:** [Heart Failure](datasets/heart.csv)
+[Car Price](datasets/CarPrice_Assignment.csv)
 
-![Footer Image](images/footer.png)
+## 💸 Task 05: Heart Bank Note Authentication
+I created a comprehensive EDA and ML/DL prediction notebook for the Bank Note Authentication dataset.
+The notebook includes:
+Classification using SVM, Logistic Regression, Random Forest, and Neural Network.
+Clustering using K-Means and another suitable clustering algorithm.
+I compared the algorithms to identify the best ones for classification and clustering tasks.
+- **Dataset:** [Bank Note Authentication](datasets/BankNote_Authentication.csv)
 
+## 🖼️ Task 06: Heart Bank Note Authentication
+I chose five major image processing filters: Gaussian Blur Filter, Median Filter, Laplacian Filter, Bilateral Filter, and Gabor Filter, and implemented them once from scratch and using OpenCV.
+
+- **Test Image:** [original_image.PNG](datasets/original_image.PNG)
+  
 ---
 
 Feel free to reach out if you have any questions or feedback!
