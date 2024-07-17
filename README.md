@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Repo)](https://git.io/typing-svg)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-username" alt="your-username" /></a> </p>
+This is a repo to document my journey through the Generative AI course at Digital Egypt Pioneers Initiative (DEPI)
 
 ## 🚀 Table of Contents
 - [Introduction](#introduction)
@@ -15,7 +12,7 @@
 ## 🌟 Introduction
 Welcome to my journey through the Gen AI course! This repository documents my progress, tasks, and learnings in a structured and visually appealing way.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/gen-ai-course-journey)
+![GitHub last commit](https://img.shields.io/github/last-commit/nadeenahmed/GenAI-DEPI)
 ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/gen-ai-course-journey)
 ![GitHub issues](https://img.shields.io/github/issues/your-username/gen-ai-course-journey)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/gen-ai-course-journey)
