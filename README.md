@@ -13,11 +13,11 @@ This is a repo to document my journey through the Generative AI course at Digita
 Welcome to my journey through the Gen AI course! This repository documents my progress, tasks, and learnings in a structured and visually appealing way.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/nadeenahmed/GenAI-DEPI)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/gen-ai-course-journey)
-![GitHub issues](https://img.shields.io/github/issues/your-username/gen-ai-course-journey)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/gen-ai-course-journey)
-![GitHub forks](https://img.shields.io/github/forks/your-username/gen-ai-course-journey?style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-username/gen-ai-course-journey?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/nadeenahmed/GenAI-DEPI)
+![GitHub issues](https://img.shields.io/github/issues/nadeenahmed/GenAI-DEPI)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nadeenahmed/GenAI-DEPI)
+![GitHub forks](https://img.shields.io/github/forks/nadeenahmed/GenAI-DEPI?style=social)
+![GitHub stars](https://img.shields.io/github/stars/nadeenahmed/GenAI-DEPI?style=social)
 
 ## 📊 Task 1: Data Exploration
 In this task, I explored various datasets and performed initial data analysis.
