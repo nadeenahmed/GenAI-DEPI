@@ -35,7 +35,7 @@ I used TensorFlow to train 2 sequential ANN models on car price and heart failur
 - **Dataset:** [Heart Failure](datasets/heart.csv)
 [Car Price](datasets/CarPrice_Assignment.csv)
 
-## 💸 Task 05: Heart Bank Note Authentication
+## 💸 Task 05: Bank Note Authentication
 I created a comprehensive EDA and ML/DL prediction notebook for the Bank Note Authentication dataset.
 The notebook includes:
 Classification using SVM, Logistic Regression, Random Forest, and Neural Network.
@@ -43,7 +43,7 @@ Clustering using K-Means and another suitable clustering algorithm.
 I compared the algorithms to identify the best ones for classification and clustering tasks.
 - **Dataset:** [Bank Note Authentication](datasets/BankNote_Authentication.csv)
 
-## 🖼️ Task 06: Heart Bank Note Authentication
+## 🖼️ Task 06: Image Processing Filters
 I chose five major image processing filters: Gaussian Blur Filter, Median Filter, Laplacian Filter, Bilateral Filter, and Gabor Filter, and implemented them once from scratch and using OpenCV.
 
 - **Test Image:** [original_image.PNG](datasets/original_image.PNG)
