@@ -22,7 +22,7 @@ Welcome to my journey through the Gen AI course! This repository documents my pr
 ## 🧠 Task 01: First ANN From Scratch
 In this task, I experienced working on an ANN from scratch.
 
-- **Notebook:** [Fisrt ANN Notebook](Task 01 - ANN From Scratch.ipynb)
+- **Notebook:** [Fisrt ANN Notebook](GenAI-DEPI/Task 01 - ANN From Scratch.ipynb)
 - **Dataset:** [Loan Prediction](datasets/Bank_Personal_Loan_Modelling.xlsx)
 
 
