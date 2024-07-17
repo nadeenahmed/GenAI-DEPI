@@ -2,13 +2,6 @@
 
 This is a repo to document my journey through the Generative AI course at Digital Egypt Pioneers Initiative (DEPI)
 
-## 🚀 Table of Contents
-- [Introduction](#introduction)
-- [Task 1: Data Exploration](#task-1-data-exploration)
-- [Task 2: Model Training](#task-2-model-training)
-- [Task 3: Model Evaluation](#task-3-model-evaluation)
-- [Conclusion](#conclusion)
-
 ## 🌟 Introduction
 Welcome to my journey through the Gen AI course! This repository documents my progress, tasks, and learnings in a structured and visually appealing way.
 
