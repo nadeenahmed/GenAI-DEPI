@@ -22,7 +22,7 @@ Welcome to my journey through the Gen AI course! This repository documents my pr
 ## 🧠 Task 01: First ANN From Scratch
 In this task, I experienced working on an ANN from scratch.
 
-- **Notebook:** [Fisrt ANN Notebook](Technical Tasks/Task 01 - ANN From Scratch.ipynb)
+- **Notebook:** [Fisrt ANN Notebook](technical_tasks/Task 01 - ANN From Scratch.ipynb)
 - **Dataset:** [Loan Prediction](datasets/Bank_Personal_Loan_Modelling.xlsx)
 
 
@@ -37,7 +37,7 @@ I evaluated the models and documented the results.
 
 ![Model Evaluation Image](images/model_evaluation.png)
 
-- **Notebook:** [Model Evaluation Notebook](tasks/task3/task3_notebook.ipynb)
+- **Notebook:** [Model Evaluation Notebook]()
 - **Results:** [Model Evaluation Results](tasks/task3/task3_results.md)
 
 
